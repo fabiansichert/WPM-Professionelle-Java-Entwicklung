@@ -1,0 +1,6 @@
+*.jar
+.metadata/
+/target/
+/weather-core/target/
+/weather-app/target/
+

@@ -1,0 +1,19 @@
+{
+  "Berlin": {
+    "temperatureCelsius": 21.5,
+    "condition": "Sonnig"
+  },
+  "München": {
+    "temperatureCelsius": 18.2,
+    "condition": "Wolkig"
+  },
+  "Stuttgart": {
+    "temperatureCelsius": 20.0,
+    "condition": "Leicht bewölkt"
+  },
+  "Hamburg": {
+    "temperatureCelsius": 16.8,
+    "condition": "Regen"
+  }
+}
+
